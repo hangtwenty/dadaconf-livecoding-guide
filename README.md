@@ -1,3 +1,9 @@
+<p align="center">
+ 👁 <a href="https://github.com/lvm/awesome-livecoding">See also — <strong>lvm/awesome-livecoding</strong></a> 👁
+</p>
+
+----
+
 # Dadaconf, meet live-coding
 
 This doc is for [a workshop at Dadaconf 0.1](http://dadaconf.com/workshops.html). Two topics:
