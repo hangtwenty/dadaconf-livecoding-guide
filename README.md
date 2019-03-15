@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
  👁 <a href="https://github.com/lvm/awesome-livecoding">See also — <strong>lvm/awesome-livecoding</strong></a> 👁
-</p>
+</h1>
 
 ----
 
