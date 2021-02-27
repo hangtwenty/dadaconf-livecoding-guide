@@ -2,12 +2,13 @@
  👁 https://github.com/terkelg/awesome-creative-coding 👁 
 </h3>
  
-<h3 align="center">
+<h4 align="center">
  👁 https://github.com/lvm/awesome-livecoding 👁 
-</h3>
+</h4>
 
-+ [github topic: creative-coding](https://github.com/topics/creative-coding)
-
+<h5 align="center">
+[github topic: creative-coding](https://github.com/topics/creative-coding)
+</h5>
 ----
 
 # Dadaconf, meet live-coding
