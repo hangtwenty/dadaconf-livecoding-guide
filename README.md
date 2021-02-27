@@ -6,9 +6,10 @@
  👁 https://github.com/lvm/awesome-livecoding 👁 
 </h4>
 
-<h5 align="center">
+----
+
 [github topic: creative-coding](https://github.com/topics/creative-coding)
-</h5>
+
 ----
 
 # Dadaconf, meet live-coding
