@@ -1,12 +1,12 @@
 This is old and messy! Check out these better resources — 
 
-<h1 align="center">
+<h2 align="center">
  👁 https://github.com/terkelg/awesome-creative-coding 👁 
-</h1>
+</h2>
  
-<h1 align="center">
- 👁 https://github.com/lvm/awesome-livecoding"
-</h1>
+<h2 align="center">
+ 👁 https://github.com/lvm/awesome-livecoding 👁 
+</h2>
 
 + [github topic: creative-coding](https://github.com/topics/creative-coding)
 
