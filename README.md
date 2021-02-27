@@ -1,6 +1,14 @@
+This is old and messy! Check out these better resources — 
+
 <h1 align="center">
- 👁 <a href="https://github.com/lvm/awesome-livecoding">See also — <strong>lvm/awesome-livecoding</strong></a> 👁
+ 👁 https://github.com/terkelg/awesome-creative-coding 👁 
 </h1>
+ 
+<h1 align="center">
+ 👁 https://github.com/lvm/awesome-livecoding"
+</h1>
+
++ [github topic: creative-coding](https://github.com/topics/creative-coding)
 
 ----
 
